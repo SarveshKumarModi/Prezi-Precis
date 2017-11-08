@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Prezi-Précis</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_daysettings">Day Mode</string>
+    <string name="action_nightsettings">Night Mode</string>
+    <string name="action_sign_in_short">Register</string>
+    <string name="email">Email</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="change_email">Change Email</string>
+    <string name="change_password">Change Password</string>
+    <string name="send_password_reset_email">Send Password reset email</string>
+    <string name="remove_user">Remove user</string>
+    <string name="new_pass">New Password</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Full Name</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">Not a member? Get registered in Prezi-Précis now!</string>
+    <string name="btn_link_to_login">Already registered. Login Me!</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="btn_forgot_password">Forgot your password?</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="hint_new_email">New Email</string>
+    <string name="btn_change">Change</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_remove">Remove</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+    <string name="camera_button_text">Upload</string>
+    <string name="sign_in_prompt">Sign In to begin</string>
+    <string name="take_photo_prompt">Upload a Photo</string>
+    <string name="download">Refresh</string>
+    <string name="sign_in_anonymously">Sign In</string>
+    <string name="rationale_storage">This sample reads images from your camera to demonstrate uploading.</string>
+    <string name="label_link">Link to Uploaded File</string>
+    <string name="label_download">Download File</string>
+    <string name="log_out">Log out</string>
+    <string name="success">Success</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Welcome To Prezi-Précis</string>
+    <string name="slide_1_desc">Official News App @Centre For Management Studies</string>
+
+    <string name="slide_2_title">Précis - Only Facts, No Opinion</string>
+    <string name="slide_2_desc">Swipe Left Or Right To Change News</string>
+
+    <string name="slide_3_title">Star Your Favorites</string>
+    <string name="slide_3_desc">Never Lose Your Favorite News Update</string>
+
+    <string name="slide_4_title">Share Your News </string>
+    <string name="slide_4_desc">lets Share Them All</string>
+
+    <string name="slide_5_title">Read in Day/NightMode</string>
+    <string name="slide_5_desc">Log In To Continue</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

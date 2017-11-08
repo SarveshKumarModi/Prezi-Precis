@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:checkableBehavior="single" android:enabled="true">
+        <item
+            android:id="@+id/action_daysettings"
+            android:checkable="true"
+            android:checked="false"
+            android:orderInCategory="100"
+            android:title="@string/action_daysettings"
+            android:visible="true" />
+    <item
+        android:id="@+id/action_nightsettings"
+        android:checkable="true"
+        android:orderInCategory="100"
+        android:title="@string/action_nightsettings"
+        android:visible="true" />
+    </group>
+</menu>

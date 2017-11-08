@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "354884771793",
+    "firebase_url": "https://presi-presis.firebaseio.com",
+    "project_id": "presi-presis",
+    "storage_bucket": "presi-presis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354884771793:android:65d3789ced687a57",
+        "android_client_info": {
+          "package_name": "com.presishorts16gmail.presipresis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354884771793-k19gmgoqmik1mmipgdko2o4662is65vq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.presishorts16gmail.presipresis",
+            "certificate_hash": "4c103aefe2c315eee76a78d1cf48b41aa0fb1351"
+          }
+        },
+        {
+          "client_id": "354884771793-smcjeep4k10v07e5p33etrsnmth0c3aa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvInv2HUZHjjBjKN-TnXhXtnymHfGStwE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354884771793-smcjeep4k10v07e5p33etrsnmth0c3aa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354884771793:android:69c09e58099f74fc",
+        "android_client_info": {
+          "package_name": "com.presishorts16gmail.presi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354884771793-dglqdpft31r2cml7e9nldbv4sjvdkc12.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.presishorts16gmail.presi",
+            "certificate_hash": "e3d81837fe441e05500153acd4c750487f121585"
+          }
+        },
+        {
+          "client_id": "354884771793-1pv4c0qi7vish2469strichs7d7s8ejn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.presishorts16gmail.presi",
+            "certificate_hash": "4c103aefe2c315eee76a78d1cf48b41aa0fb1351"
+          }
+        },
+        {
+          "client_id": "354884771793-smcjeep4k10v07e5p33etrsnmth0c3aa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvInv2HUZHjjBjKN-TnXhXtnymHfGStwE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354884771793-smcjeep4k10v07e5p33etrsnmth0c3aa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
